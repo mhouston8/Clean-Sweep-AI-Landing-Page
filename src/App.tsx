@@ -53,16 +53,16 @@ function App() {
             </div>
             <div className="hero-stats fade-in-up delay-4">
               <div className="stat">
-                <div className="stat-value">4.9★</div>
-                <div className="stat-label">App Store Rating</div>
+                <div className="stat-value">🔒</div>
+                <div className="stat-label">100% Private</div>
               </div>
               <div className="stat">
-                <div className="stat-value">500K+</div>
-                <div className="stat-label">Downloads</div>
+                <div className="stat-value">⚡</div>
+                <div className="stat-label">Fast Scans</div>
               </div>
               <div className="stat">
-                <div className="stat-value">10GB+</div>
-                <div className="stat-label">Avg. Space Freed</div>
+                <div className="stat-value">📱</div>
+                <div className="stat-label">Easy to Use</div>
               </div>
             </div>
           </div>
@@ -177,7 +177,7 @@ function App() {
           <div className="cta-content">
             <h2 className="cta-title">Ready to Reclaim Your Storage?</h2>
             <p className="cta-description">
-              Join over 500,000 users who've freed up space on their iPhones. Download Storage Optimizer free today.
+              Start freeing up space on your iPhone today. Download Storage Optimizer free from the App Store.
             </p>
             <div className="cta-buttons">
               <a href="#" className="cta-primary">
@@ -206,7 +206,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2024 Storage Optimizer. All rights reserved. Made with ❤️ for a cleaner iPhone.</p>
+          <p>© 2025 Storage Optimizer. All rights reserved. Made with ❤️ for a cleaner iPhone.</p>
         </div>
       </footer>
     </div>
