@@ -13,7 +13,7 @@ function App() {
         <div className="header-content">
           <a href="#" className="logo">
             <div className="logo-icon">🧹</div>
-            Storage Optimizer
+            Clean Sweep AI
           </a>
           <nav>
             <ul className="nav-links">
@@ -37,7 +37,7 @@ function App() {
               Free Up <span className="highlight">Gigabytes</span> of Space in Seconds
             </h1>
             <p className="hero-description fade-in-up delay-2">
-              Storage Optimizer intelligently identifies and removes junk files, duplicate photos, 
+              Clean Sweep AI intelligently identifies and removes junk files, duplicate photos, 
               and cached data. Reclaim your iPhone's storage without losing what matters.
             </p>
             <div className="hero-cta fade-in-up delay-3">
@@ -144,7 +144,7 @@ function App() {
             <div className="step-content">
               <h3 className="step-title">Download & Open</h3>
               <p className="step-description">
-                Get Storage Optimizer free from the App Store. Open the app and grant photo access to enable full scanning capabilities.
+                Get Clean Sweep AI free from the App Store. Open the app and grant photo access to enable full scanning capabilities.
               </p>
             </div>
           </div>
@@ -177,7 +177,7 @@ function App() {
           <div className="cta-content">
             <h2 className="cta-title">Ready to Reclaim Your Storage?</h2>
             <p className="cta-description">
-              Start freeing up space on your iPhone today. Download Storage Optimizer free from the App Store.
+              Start freeing up space on your iPhone today. Download Clean Sweep AI free from the App Store.
             </p>
             <div className="cta-buttons">
               <a href="#" className="cta-primary">
@@ -196,7 +196,7 @@ function App() {
         <div className="footer-content">
           <div className="footer-logo">
             <div className="logo-icon">🧹</div>
-            Storage Optimizer
+            Clean Sweep AI
           </div>
           <div className="footer-links">
             <a href="#">Privacy Policy</a>
@@ -206,7 +206,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2025 Storage Optimizer. All rights reserved. Made with ❤️ for a cleaner iPhone.</p>
+          <p>© 2025 Clean Sweep AI. All rights reserved. Made with ❤️ for a cleaner iPhone.</p>
         </div>
       </footer>
     </div>
