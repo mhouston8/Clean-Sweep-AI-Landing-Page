@@ -207,7 +207,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2025 Clean Sweep AI. All rights reserved. Made with ❤️ for a cleaner iPhone.</p>
+          <p>© 2025 Brevix Ventures LLC. All rights reserved.</p>
         </div>
       </footer>
     </div>
